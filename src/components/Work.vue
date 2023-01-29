@@ -31,7 +31,7 @@
               <p class="card-text">私のプロフィールサイト</p>
               <p class="card-lang">Language : JavaScript(Vue.js)</p>
               <br>
-              <a href="https://github.com/shoma3571/-portfolio" class="card-link github-link">Github</a>
+              <a href="https://github.com/kouhei-iwano/portfolio" class="card-link github-link">Github</a>
             </div>
           </li>
         </ul>
