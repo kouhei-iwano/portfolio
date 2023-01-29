@@ -2,7 +2,7 @@
 
 ## What is the repository
 
-This is my portfolio<br>
+This is my portfolio 
 [LINK](https://kohei-profile.netlify.app)
 
 ## Project setup
