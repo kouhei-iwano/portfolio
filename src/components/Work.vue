@@ -7,11 +7,21 @@
             <img class="card-img" src="../assets/work/fpailab.webp" alt="">
             <div class="card-content">
               <h1 class="card-title jp">未来植物AI研究所のサイト</h1>
-              <p class="card-text">きゅうり病害画像自動診断アプリのデモ公開</p>
+              <p class="card-text">きゅうり病害画像自動診断Webアプリのデモ公開</p>
               <p class="card-lang">Language : HTML,CSS,JavaScript</p>
               <br>
               <a href="https://kouhei-iwano.github.io/future-plant-ai-lab/" class="card-link">Website</a>
               <a href="https://github.com/kouhei-iwano/future-plant-ai-lab" class="card-link github-link">Github</a>
+            </div>
+          </li>
+          <li class="card">
+            <img class="card-img" src="../assets/work/cucumber-ios-app.webp" alt="">
+            <div class="card-content">
+              <h1 class="card-title jp">画像分類 iOS機械学習アプリ</h1>
+              <p class="card-text">きゅうり病害画像自動診断iOSアプリ作成</p>
+              <p class="card-lang">Language : Swift</p>
+              <br>
+              <a href="https://github.com/kouhei-iwano/portfolio" class="card-link github-link">Github</a>
             </div>
           </li>
           <li class="card">
