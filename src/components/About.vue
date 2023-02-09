@@ -22,8 +22,8 @@
 
             <h2><font-awesome-icon icon="search" class="icon resent"/> Recent interests</h2>
             <p class="text">
-              AI技術によるWebアプリケーション,またUI,UXデザインに興味があります。<br>
-              ユーザー目線で開発業務を行えるフロントエンドエンジニアを目指しています。
+              機械学習、Webアプリケーションの設計に興味があります。<br>
+              ユーザー目線で開発業務を行えるバックエンドエンジニアを目指しています。
             </p>
         </div>
     </div>
