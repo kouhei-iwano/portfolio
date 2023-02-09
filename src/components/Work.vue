@@ -21,7 +21,7 @@
               <p class="card-text">きゅうり病害画像自動診断iOSアプリ作成</p>
               <p class="card-lang">Language : Swift</p>
               <br>
-              <a href="https://github.com/kouhei-iwano/portfolio" class="card-link github-link">Github</a>
+              <a href="https://github.com/kouhei-iwano/cucumber_classify_iOS" class="card-link github-link">Github</a>
             </div>
           </li>
           <li class="card">
